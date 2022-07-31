@@ -13,12 +13,7 @@ End result, is an accessible, opitmized SEO site with semantic HTML and CSS that
 # Screenshots
 
 
-# Deplyed application
+# Deployed application
 
 To view final site, open: 
 https://vpratnicki.github.io/module-1-challenge/ 
-
-
-
-
-
